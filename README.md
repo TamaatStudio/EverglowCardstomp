@@ -9,27 +9,35 @@ If you do enjoy playing this game and you would like to generously contribute to
 feel free to drop a tip or subscribe to my Patreon.
 
  <3   Tips  : https://www.paypal.me/kierstal
+ 
  <3 Patreon : https://www.patreon.com/tamaat_studio
 
-X===========X
+
 || Credits ||
-X===========X
 
 // Udemy Course Instructor - Sandor Kiss
+
   https://www.udemy.com/learn-to-code-trading-card-game-battle-system-with-unity-3d/learn/v4/overview
 
 // Ponyfinder Name & Resources - http://forum.ponyfinder.net/
+
   David Silver / Silver Games LLC. - https://www.patreon.com/davidsilver
+  
   Ponyfinder Campaign Setting - https://www.drivethrurpg.com/product/125583/Ponyfinder--Campaign-Setting
 
 // Art 
+
   Tamaat Studio - http://tamaat.gushi.org/
+  
   Sita Duncan - http://geckosart.tumblr.com/
+  
   Raven - 
 
 
 // Fonts
+
   Sita Duncan - http://geckosart.tumblr.com/
+  
   Kenney https://www.kenney.nl/
 
 // Characters 
