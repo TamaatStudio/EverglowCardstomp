@@ -15,30 +15,28 @@ feel free to drop a tip or subscribe to my Patreon.
 
 || Credits ||
 
-// Udemy Course Instructor - Wilmer Lin
+/> Udemy Course Instructor - Wilmer Lin -  https://www.udemy.com/make-a-puzzle-match-game-in-unity/
 
-  https://www.udemy.com/make-a-puzzle-match-game-in-unity/
+/> Ponyfinder Name & Resources - http://forum.ponyfinder.net/
 
-// Ponyfinder Name & Resources - http://forum.ponyfinder.net/
-
-  David Silver / Silver Games LLC. - https://www.patreon.com/davidsilver
+ * David Silver / Silver Games LLC. - https://www.patreon.com/davidsilver
   
-  Ponyfinder Campaign Setting - https://www.drivethrurpg.com/product/125583/Ponyfinder--Campaign-Setting
+ * Ponyfinder Campaign Setting - https://www.drivethrurpg.com/product/125583/Ponyfinder--Campaign-Setting
 
-// Art 
+/> Art 
 
-  Tamaat Studio - http://tamaat.gushi.org/
+ * Tamaat Studio - http://tamaat.gushi.org/
   
-  Sita Duncan - http://geckosart.tumblr.com/
+ * Sita Duncan - http://geckosart.tumblr.com/
+
+/> Fonts
+
+ * Ponyfinder font by Sita Duncan
   
-  Raven - 
+ * HamletOrNot - https://fonts2u.com/hamletornot.font
 
+/> Characters 
 
-// Fonts
-
-  Sita Duncan - http://geckosart.tumblr.com/
+ * Fast Shadow - Ponyfinder > TamaatStudio
   
-  Kenney https://www.kenney.nl/
-
-// Characters 
-
+  
