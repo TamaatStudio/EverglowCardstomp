@@ -37,6 +37,14 @@ feel free to drop a tip or subscribe to my Patreon.
 
 /> Characters 
 
- * Fast Shadow - Ponyfinder > TamaatStudio
+ * Fast Shadow - David Silver
+ 
+ * Dawn Event - David Silver
+ 
+ /> Music
+ 
+ * Fast Shadow - Fly a Kite by Spectacular Sound Productions
+ 
+ * Dawn Event - Full of Stars by Philipp Weigl
   
   
