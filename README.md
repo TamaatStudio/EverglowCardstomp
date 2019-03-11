@@ -1,5 +1,5 @@
 # EverglowCardstomp
-Ponyfinder Digital CCG
+Ponyfinder Digital CCG + Match3 genre blend
 
 The best way to learn to do a thing is by doing it, so I'm taking a course on how to make a game, and 
 turning it into something a bit more original.  This is for EDUCATIONAL PURPOSES ONLY - if you paid for
@@ -15,9 +15,9 @@ feel free to drop a tip or subscribe to my Patreon.
 
 || Credits ||
 
-// Udemy Course Instructor - Sandor Kiss
+// Udemy Course Instructor - Wilmer Lin
 
-  https://www.udemy.com/learn-to-code-trading-card-game-battle-system-with-unity-3d/learn/v4/overview
+  https://www.udemy.com/make-a-puzzle-match-game-in-unity/
 
 // Ponyfinder Name & Resources - http://forum.ponyfinder.net/
 
