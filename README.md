@@ -49,6 +49,6 @@ feel free to drop a tip or subscribe to my Patreon.
  
  * Dawn Event - Full of Stars by Philipp Weigl
 
- * Rought Draft - https://freesound.org/people/orginaljun/sounds/149434/
+ * Rough Draft - https://freesound.org/people/orginaljun/sounds/149434/
   
   
