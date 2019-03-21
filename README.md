@@ -1,5 +1,5 @@
 # EverglowCardstomp
-Ponyfinder Digital CCG
+Ponyfinder Digital CCG + Match3 genre blend
 
 The best way to learn to do a thing is by doing it, so I'm taking a course on how to make a game, and 
 turning it into something a bit more original.  This is for EDUCATIONAL PURPOSES ONLY - if you paid for
@@ -15,30 +15,36 @@ feel free to drop a tip or subscribe to my Patreon.
 
 || Credits ||
 
-// Udemy Course Instructor - Sandor Kiss
+/> Udemy Course Instructor - Wilmer Lin -  https://www.udemy.com/make-a-puzzle-match-game-in-unity/
 
-  https://www.udemy.com/learn-to-code-trading-card-game-battle-system-with-unity-3d/learn/v4/overview
+/> Ponyfinder Name & Resources - http://forum.ponyfinder.net/
 
-// Ponyfinder Name & Resources - http://forum.ponyfinder.net/
-
-  David Silver / Silver Games LLC. - https://www.patreon.com/davidsilver
+ * David Silver / Silver Games LLC. - https://www.patreon.com/davidsilver
   
-  Ponyfinder Campaign Setting - https://www.drivethrurpg.com/product/125583/Ponyfinder--Campaign-Setting
+ * Ponyfinder Campaign Setting - https://www.drivethrurpg.com/product/125583/Ponyfinder--Campaign-Setting
 
-// Art 
+/> Art 
 
-  Tamaat Studio - http://tamaat.gushi.org/
+ * Tamaat Studio - http://tamaat.gushi.org/
   
-  Sita Duncan - http://geckosart.tumblr.com/
+ * Sita Duncan - http://geckosart.tumblr.com/
+
+/> Fonts
+
+ * Ponyfinder font by Sita Duncan
   
-  Raven - 
+ * HamletOrNot - https://fonts2u.com/hamletornot.font
 
+/> Characters 
 
-// Fonts
-
-  Sita Duncan - http://geckosart.tumblr.com/
+ * Fast Shadow - David Silver
+ 
+ * Dawn Event - David Silver
+ 
+ /> Music
+ 
+ * Fast Shadow - Fly a Kite by Spectacular Sound Productions
+ 
+ * Dawn Event - Full of Stars by Philipp Weigl
   
-  Kenney https://www.kenney.nl/
-
-// Characters 
-
+  
